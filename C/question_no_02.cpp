@@ -1,5 +1,5 @@
-// question no 02.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
+// power 
 
 #include <iostream>
 using namespace std;

@@ -1,6 +1,4 @@
-// question no 01.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
+// sum of n number 
 #include <iostream>
 using namespace std;
 

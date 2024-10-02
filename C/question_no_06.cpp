@@ -1,3 +1,5 @@
+// palindrome
+
 #include <iostream>
 using namespace std;
 
@@ -19,11 +21,10 @@ int main() {
 
     // Check if the original number and the reversed number are the same
     if (originalNum == reversedNum) {
-        cout << originalNum << " is a palindrome." << endl;
+        cout << originalNum << " is equal to " << reversedNum <<" and thus a palindrome " << endl;
     }
     else {
-        cout << originalNum << " is not a palindrome." << endl;
+        cout << originalNum << " is not equal to " << reversedNum <<" and thus not a palindrome " << endl;
     }
-
     return 0;
 }
