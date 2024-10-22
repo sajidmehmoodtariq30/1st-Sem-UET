@@ -6,8 +6,7 @@ using namespace std;
 
 // Main Function
 int main() {
-    // Variable declarations
-
+    cout << "Hello World";
     // Exiting the program
     return 0;
 }
